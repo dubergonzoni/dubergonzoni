@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Eduardo Bergonzoni Junqueira.
 
-- 💻 I’m currently working as a Laboratory Technician at the Biomechanics and Motor Control Lab.
-- 📈 I’m looking for an opportunity to start a career as a Data Scientist.
+- 💻 I’m currently working as a Senior Software Developer and AI Researcher at SIDIA Institute of Science and Technology.
 
 <div align="center">
   <a href="https://github.com/dubergonzoni">
